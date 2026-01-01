@@ -1,0 +1,8 @@
+{
+  "accounts": [
+    {
+      "twitter": "evtxdakc37",
+      "webhook": "https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=52a89ab9-1e93-4b18-bf49-1b89336333e3"
+    }
+  ]
+}
